@@ -6,9 +6,6 @@
 ![Logo de Markdown](/imagen2.png)
 
 
-![Logo de Markdown](/imagen3.png)
-
-
 ![Logo de Markdown](/imagen4.png)
 
 
