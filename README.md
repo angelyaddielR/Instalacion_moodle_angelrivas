@@ -1,5 +1,5 @@
 
-
+Aquí ya edité mi perfil, modifiqué mi contraseña y mi correo electronico.
 ![Logo de Markdown](/Imagen1.png)
 
 
